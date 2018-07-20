@@ -1,0 +1,8 @@
+model/data/
+model/data/*
+*.pkl
+*.txt
+*.egg-info
+*.swp
+*.pyc
+*.dat

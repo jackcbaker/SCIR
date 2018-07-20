@@ -1,0 +1,3 @@
+# Large-Scale Stochastic Sampling from the Probability Simplex
+
+Companion code to the preprint [Baker, Fearnhead, Fox, Nemeth (2017) Large-Scale Stochastic Sampling from the Probability Simplex](https://arxiv.org/abs/1806.07137). This code implements each of the Experiments. For details of how to run the code for each of the examples, please see the READMEs within each of the relevant directories. The LDA example is based upon the code for the paper by [Patterson and Teh (2013)](http://papers.nips.cc/paper/4883-stochastic-gradient-riemannian-langevin-dynamics-on-the-probability-simplex), which is available on [GitHub](https://github.com/BigBayes/SGRLD).
